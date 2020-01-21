@@ -1,3 +1,3 @@
 # DataCamp_projects
 
-Collection of DataCamp projects done by me
+Collection of [DataCamp projects](https://www.datacamp.com/projects) done by me
