@@ -1,4 +1,4 @@
-# DataCamp_projects
+# DataCamp Projects
 
 Collection of [DataCamp projects](https://www.datacamp.com/projects) done by me
 
